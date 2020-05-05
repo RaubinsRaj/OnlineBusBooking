@@ -1,3 +1,6 @@
 [submodule "bus-microservice"]
 	path = bus-microservice
 	url = https://github.com/RaubinsRaj/bus-microservice
+[submodule "booking-microservices"]
+	path = booking-microservices
+	url = https://github.com/RaubinsRaj/booking-microservices.git
