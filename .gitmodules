@@ -10,3 +10,6 @@
 [submodule "transaction-microservice"]
 	path = transaction-microservice
 	url = https://github.com/RaubinsRaj/transaction-microservice
+[submodule "seats-microservice"]
+	path = seats-microservice
+	url = https://github.com/RaubinsRaj/seats-microservice.git
