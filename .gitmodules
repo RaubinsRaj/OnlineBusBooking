@@ -16,3 +16,6 @@
 [submodule "Zuul"]
 	path = Zuul
 	url = https://github.com/RaubinsRaj/Zuul
+[submodule "JWT"]
+	path = JWT
+	url = https://github.com/RaubinsRaj/JWT
